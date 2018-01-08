@@ -1,0 +1,14 @@
+{
+  "name": "negopartnerreminderssender",
+  "description": "no description",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=4.3.2"
+  },
+  "dependencies": {
+    "express": "4.15.2",
+    "firebase": "^4.1.1",
+    "firebase-admin": "^5.0.0",
+    "node-mailjet": "^3.1.0"
+  }
+}
